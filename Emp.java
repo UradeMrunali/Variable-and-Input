@@ -21,8 +21,7 @@ public static void main(String[] args) {
         System.out.println("Employee id is : " + id );
         System.out.println("Employee salary is : " + sal );
         System.out.println("Employee address is : " + add.toUpperCase() );
-
-	}
+        }
 	
 }
 
